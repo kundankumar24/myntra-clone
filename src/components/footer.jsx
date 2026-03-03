@@ -1,13 +1,13 @@
 import React from "react";
 
-import appStore from "../assets/footer/AppStore.png";
-import facebook from "../assets/footer/Facebook.png";
-import googlePlay from "../assets/footer/GooglePlay.png";
-import instagram from "../assets/footer/Instagram.png";
-import original from "../assets/footer/Original.png";
-import sign from "../assets/footer/Sign_14.png";
-import twitter from "../assets/footer/Twitter.png";
-import youtube from "../assets/footer/youtube.png";
+import appStore from "../assets/Footer/AppStore.png";
+import facebook from "../assets/Footer/Facebook.png";
+import googlePlay from "../assets/Footer/GooglePlay.png";
+import instagram from "../assets/Footer/Instagram.png";
+import original from "../assets/Footer/Original.png";
+import sign from "../assets/Footer/Sign_14.png";
+import twitter from "../assets/Footer/Twitter.png";
+import youtube from "../assets/Footer/youtube.png";
 const Footer = () => {
   return (
     <footer className="bg-gray-100 mt-10 text-sm text-gray-700">
